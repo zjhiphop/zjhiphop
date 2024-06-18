@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zjhiphop
-- 👀 I’m interested in Web/Security/Big Data (TypeScript/Python/Java/Go)
-- 🌱 I’m currently learning Web3
-- 💞️ I’m looking to collaborate on BlockChain Projects
+- 👀 I’m interested in AI/Web/Security/Big Data (TypeScript/Python/Java/Go)
+- 🌱 I’m currently learning AI/Web3
+- 💞️ I’m looking to collaborate on AI/BlockChain Projects
 - 📫 How to reach me: zjhiphop@gmail.com
 
 #### Github Stats 📊
